@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+photo-sharing-v1/node_modules/
+/.pnp
+.pnp.js
+
+# Production builds
+build/
+photo-sharing-v1/build/
+
+# Testing
+/coverage
+
+# Misc & OS files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Assignment PDF
+*.pdf
